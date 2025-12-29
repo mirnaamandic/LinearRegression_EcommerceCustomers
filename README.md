@@ -1,4 +1,4 @@
-"# LinearRegression_EcommerceCustomers" 
+"#LinearRegression_EcommerceCustomers" 
 
 Exploratory Analysis: I used Python (pandas, seaborn, matplotlib) to summarize and visualize the data. Histograms and scatter/joint plots helped reveal relationships–for example, a joint-plot of membership length vs. spending showed a clear positive correlation(longer members tend to spend more).
 I also examined correlations among features to spot potential multicollinearity or unexpected trends.
